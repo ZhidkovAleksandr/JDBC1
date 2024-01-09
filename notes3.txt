@@ -1,0 +1,3 @@
+create database testbase;
+use testbase;
+create table testtable (id int auto_increment primary key,name varchar(30),surname varchar(30));
